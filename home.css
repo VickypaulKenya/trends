@@ -129,9 +129,9 @@ a {
     place-content:center;
 }
 
-@media(max-width:323px){
+@media(max-width:434px){
   .container{
-    margin-top:200px;
+    margin-top:150px;
   }
       a{
         font-size: 1rem;
